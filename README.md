@@ -1,2 +1,2 @@
-# Weather-App-Project
-My Weather App Project 
+# Weather-Journal-App
+weather journal app project

@@ -1,0 +1,17 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "A simple application to track weather data and journal entries.",
+  "main": "app-server.js",
+  "scripts": {
+    "test": "echo \"Error: test command missing\" && exit 1",
+    "start": "node app-server.js"
+  },
+  "author": "techwizard",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
